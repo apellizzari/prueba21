@@ -13,6 +13,7 @@ public class HolaMundo extends ActionSupport {
 		return SUCCESS;
 	} 	
 
+	
 	public String getMensaje() {
 		return mensaje;
 	}
